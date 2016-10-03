@@ -1,0 +1,17 @@
+{
+  "name": "predawn-hyperterm",
+  "version": "1.0.0",
+  "description": "Predawn theme for Hyperterm",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiewilson/predawn-hyperterm.git"
+  },
+  "keywords": [ "predawn", "hypterterm" ],
+  "author": "Jamie Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamiewilson/predawn-hyperterm/issues"
+  },
+  "homepage": "https://github.com/jamiewilson/predawn-hyperterm"
+}
