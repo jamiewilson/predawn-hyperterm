@@ -1,13 +1,10 @@
 exports.decorateConfig = (config) => {
   return Object.assign({}, config, {
-    fontSize: 14,
     fontFamily: '"Source Code Pro", monospace',
     cursorColor: '#f18260',
     foregroundColor: '#dddddd',
     backgroundColor: '#282828',
     borderColor: '#282828',
-    padding: '15px',
-    windowSize: [800, 600],
     colors: {
       black: '#232323',
       red: '#c42d29',
